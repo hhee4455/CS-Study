@@ -9,17 +9,11 @@
 
 |  카테고리  |  내용  |  상태  |
 |:------:|:---:|:----------:|  
-| **Network** | OSI Model | 📙 |
+| **Network** | OSI Model | 📗 |
 | **Network** | TCP/IP Model | 📕 |
-| **Network** | DNS | 📕 |
-| **Network** | HTTP | 📕 |
-| **Network** | TLS&HTTPS | 📕 |
-| **Network** | Sockets | 📕 |
-
 
 📌 **상태 표시 기준**  
 - 📗 : **학습 완료 및 내용 정리 완료**  
-- 📙 : **학습 중 또는 정리 중**  
 - 📕 : **학습 예정**  
 
 <br>  
