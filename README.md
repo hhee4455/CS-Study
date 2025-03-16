@@ -11,8 +11,12 @@
 |:------:|:---:|:----------:|  
 | **Network** | OSI Model | 📗 |
 | **Network** | TCP/IP Model | 📗 |
+| **Network** | DNS | 📕 |
 | - | - | - |
-| **Design Patterns** | GoF Design Patterns | 📕 |
+| **Design Patterns** | GoF Design Patterns | 📗 |
+| **Design Patterns** | GoF Design Patterns(Creational Patterns) | 📕 |
+| - | - | - |
+| **DB** | SQL vs NoSQL Databases | 📕 |
 
 📌 **상태 표시 기준**  
 - 📗 : **학습 완료 및 내용 정리 완료**  
