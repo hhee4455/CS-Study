@@ -5,7 +5,7 @@
 - **이메일, 파일 전송, 원격 로그인 등 주요 네트워크 기능 지원**
 - **하드웨어나 운영체제에 상관없이 작동하는 유연한 구조**
 
-<img src="../image/Networking/2_1.png" alt="설명" width="400" style="display: block; margin: auto;">
+<img src="./image/2_1.png" alt="설명" width="400" style="display: block; margin: auto;">
 <br>
 
 ## 📌 TCP/IP 4계층 모델
@@ -50,7 +50,7 @@
 2. 그런 다음 수신 컴퓨터는 SYN에 대한 승인(SYN-ACK 메시지라고 함)을 보내야 합니다. 
 3. 마지막으로 발신자가 확인을 승인해야 합니다(수신 확인 메시지라고 함).
 
-<img src="../image/Networking/2_2.png" alt="설명" width="400" style="display: block; margin: auto;">
+<img src="./image/2_2.png" alt="설명" width="400" style="display: block; margin: auto;">
 <br>
 
 ## 📌 UDP 통신
@@ -61,7 +61,7 @@
 2. 수신 컴퓨터는 데이터를 받지만, 이를 확인하거나 순서를 보장하지 않습니다.  
 3. 발신 컴퓨터는 수신 확인을 기다리지 않고 계속해서 데이터를 전송합니다.  
 
-<img src="../image/Networking/2_3.png" alt="설명" width="500" style="display: block; margin: auto;">
+<img src="./image/2_3.png" alt="설명" width="500" style="display: block; margin: auto;">
 
 
 ## 💭 면접 예상 질문

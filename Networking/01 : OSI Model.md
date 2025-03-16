@@ -2,7 +2,7 @@
 - **네트워크 통신 기능을 7개 계층으로 나눈 개념적 프레임워크**
 - **서로 다른 컴퓨터 시스템이 원활하게 통신할 수 있도록 표준을 제공**
 
-<img src="../image/Networking/1_1.png" alt="설명" width="400" style="display: block; margin: auto;">
+<img src="./image/1_1.png" alt="설명" width="400" style="display: block; margin: auto;">
 
 ## 📌 OSI 7계층 모델
 
