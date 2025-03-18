@@ -4,7 +4,7 @@
 
 <img src="./image/1_1.png" alt="설명" width="400" style="display: block; margin: auto;">
 
-## 📌 OSI 7계층 모델
+## 📖 OSI 7계층 모델
 
 ### 1. 물리 계층
 - **역할:**  
