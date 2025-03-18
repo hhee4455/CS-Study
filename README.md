@@ -16,7 +16,8 @@
 | **Design Patterns** | GoF Design Patterns | 📗 |
 | **Design Patterns** | GoF Design Patterns(Creational Patterns) | 📕 |
 | - | - | - |
-| **DB** | SQL vs NoSQL Databases | 📕 |
+| **DB** | SQL vs NoSQL Databases | 📗 |
+| **DB** | Normalization vs Denormalization | 📕 |
 
 📖 **상태 표시 기준**  
 - 📗 : **학습 완료 및 내용 정리 완료**  
