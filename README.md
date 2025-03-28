@@ -14,6 +14,7 @@
 | **Network** | DNS | 📕 |
 | - | - | - |
 | **Design Patterns** | GoF Design Patterns | 📗 |
+| **Design Patterns** | GoF Design Patterns(Creational Patterns) | 📗 |
 | **Design Patterns** | GoF Design Patterns(Creational Patterns) | 📕 |
 | - | - | - |
 | **DB** | SQL vs NoSQL Databases | 📗 |
