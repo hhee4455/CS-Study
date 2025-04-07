@@ -4,7 +4,8 @@
 |:------:|:---:|:----------:|  
 | **Network** | OSI Model | 📗 |
 | **Network** | TCP/IP Model | 📗 |
-| **Network** | DNS | 📕 |
+| **Network** | DNS | 📗 |
+| **Network** | HTTP | 📕 |
 
 📖 **상태 표시 기준**  
 - 📗 : **학습 완료 및 내용 정리 완료**  
