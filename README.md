@@ -6,23 +6,10 @@
 <br>  
 
 ## 💭 스터디 현황  
-
-|  카테고리  |  내용  |  상태  |
-|:------:|:---:|:----------:|  
-| **Network** | OSI Model | 📗 |
-| **Network** | TCP/IP Model | 📗 |
-| **Network** | DNS | 📕 |
-| - | - | - |
-| **Design Patterns** | GoF Design Patterns | 📗 |
-| **Design Patterns** | GoF Design Patterns(Creational Patterns) | 📗 |
-| **Design Patterns** | GoF Design Patterns(Creational Patterns) | 📕 |
-| - | - | - |
-| **DB** | SQL vs NoSQL Databases | 📗 |
-| **DB** | Normalization vs Denormalization | 📕 |
-
-📖 **상태 표시 기준**  
-- 📗 : **학습 완료 및 내용 정리 완료**  
-- 📕 : **학습 예정**  
+- [Networking](https://github.com/hhee4455/CS-Study/tree/main/Networking)
+- [DB](https://github.com/hhee4455/CS-Study/tree/main/DB)
+- [Design_Patterns](https://github.com/hhee4455/CS-Study/tree/main/Design%20Patterns)
+- [Data_Engineer](https://github.com/hhee4455/CS-Study/tree/main/Data%20Engineer)
 
 <br>  
 
