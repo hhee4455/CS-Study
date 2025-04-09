@@ -2,7 +2,8 @@
 
 |  카테고리  |  내용  |  상태  |
 |:------:|:---:|:----------:|  
-| **DB** | 대규모 시스템에서의 SQL vs NoSQL Databases | 📗 |
+| **DB** | SQL과 데이터베이스 소개 | 📗 |
+| **DB** | SQL vs NoSQL Databases | 📗 |
 | **DB** | Normalization vs Denormalization | 📕 |
 
 📖 **상태 표시 기준**  
