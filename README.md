@@ -8,8 +8,6 @@
 ## 💭 스터디 현황  
 - [Networking](https://github.com/hhee4455/CS-Study/tree/main/Networking)
 - [DB](https://github.com/hhee4455/CS-Study/tree/main/DB)
-- [Design_Patterns](https://github.com/hhee4455/CS-Study/tree/main/Design%20Patterns)
-- [Data_Engineer](https://github.com/hhee4455/CS-Study/tree/main/Data%20Engineer)
 
 <br>  
 
