@@ -7,7 +7,7 @@
 
 ## 💭 스터디 현황  
 - [Networking](https://github.com/hhee4455/CS-Study/tree/main/Networking)
-- [DB](https://github.com/hhee4455/CS-Study/tree/main/DB)
+- [SQL](https://github.com/hhee4455/CS-Study/tree/main/SQL)
 
 <br>  
 
