@@ -8,6 +8,7 @@
 ## 💭 스터디 현황  
 - [Networking](https://github.com/hhee4455/CS-Study/tree/main/Networking)
 - [SQL](https://github.com/hhee4455/CS-Study/tree/main/SQL)
+- [AWS](https://github.com/hhee4455/Dev-Notebook/tree/main/AWS)
 
 <br>  
 
