@@ -33,7 +33,6 @@
 - 인터넷 및 대부분의 네트워크에서 사용하는 통신 프로토콜의 집합이다.
 - 하드웨어, OS와 무관하게 작동하는 유연한 구조를 가진다.
 
-
 <img src="./image/2_1.png" alt="설명" width="300" style="display: block; margin: auto;">
 
 
@@ -54,6 +53,8 @@
 
 <img src="./image/2_2.png" alt="설명" width="500" style="display: block; margin: auto;">
 
+
+
 ---
 
 ### UDP 통신
@@ -62,6 +63,7 @@
 - 오류 검출, 순서 보장 없이 전송한다.
 
 <img src="./image/2_3.png" alt="설명" width="500" style="display: block; margin: auto;">
+
 
 ---
 
