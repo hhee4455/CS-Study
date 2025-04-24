@@ -1,17 +1,26 @@
 # 💭 Dev Study  
 
-## 💭 Dev 스터디 소개  
-📖 기술 면접 및 전공 지식을 정리하는 공간입니다.  
+## Dev 스터디 소개  
+기술 면접 및 전공 지식을 정리하는 공간입니다.  
 
-<br>  
+## 폴더 구성
 
-## 💭 스터디 현황  
-- [Networking](https://github.com/hhee4455/CS-Study/tree/main/Networking)
-- [SQL](https://github.com/hhee4455/CS-Study/tree/main/SQL)
-- [AWS](https://github.com/hhee4455/Dev-Notebook/tree/main/AWS)
+| 폴더명 | 설명 |
+|--------|------|
+| `data-structure/` | 자료구조 (배열, 스택, 큐, 트리, 그래프 등) 정리 |
+| `algorithms/` | 정렬, 탐색, DP, 백트래킹 등 알고리즘 개념 및 구현 |
+| `web-frameworks/` | Django, FastAPI 같은 웹 프레임워크 학습 |
+| `databases/` | SQL, RDBMS, NoSQL, DW 등 저장소 관련 학습 |
+| `cloud/` | AWS 중심의 클라우드 인프라 구성 학습 |
+| `data-engineering/` | Spark, Airflow, Hadoop 중심의 데이터 처리 |
+| `networking/` | 컴퓨터 네트워크 및 프로토콜 개념 학습 |
 
-<br>  
+## 학습 목적
 
-## 💭 기타  
-✅ **커밋 메시지 규칙**  
+- 전공 수준의 CS 개념을 실무 관점에서 다시 정리
+- 실무에 필요한 기술과 CS 이론의 연결 고리를 학습
+- 모든 정리는 **이론 + 실습 + 요약** 형식으로 구성
+
+## 기타  
+**커밋 메시지 규칙**  
 - `"Dev: 카테고리/공부내용"` 형식으로 통일  
