@@ -41,8 +41,8 @@
   - 일반적으로 운영 DB를 복사하여 사용한다.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./image/1_1.png" alt="설명" width="45%">
-  <img src="./image/1_2.png" alt="설명" width="45%">
+  <img src="./image/1_1.png" alt="설명" style="width: 45%;">
+  <img src="./image/1_2.png" alt="설명" style="width: 45%;">
 </div>
 
 ---
@@ -57,14 +57,13 @@
 - **Star Schema**  
   - 서비스 운영 DB에서 사용하는 구조.  
   - 논리적으로 데이터를 나누고 필요한 경우 조인하여 사용한다.  
-<img src="./image/1_3.png" alt="설명" width="500" style="display: block; margin: auto;">
+  <img src="./image/1_3.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 - **Denormalized Schema**  
   - 데이터 웨어하우스에서 주로 사용한다.  
   - 테이블을 조인하지 않고 단일 테이블에 데이터를 저장한다.  
   - 계산 속도가 빠르지만 저장 공간을 더 차지한다.  
-<img src="./image/1_4.png" alt="설명" width="500" style="display: block; margin: auto;">
-
+  <img src="./image/1_4.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 ---
 
@@ -80,10 +79,9 @@
 - Snowflake  
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./image/1_5.png" alt="설명" width="45%">
-  <img src="./image/1_6.png" alt="설명" width="45%">
+  <img src="./image/1_5.png" alt="설명" style="width: 45%;">
+  <img src="./image/1_6.png" alt="설명" style="width: 45%;">
 </div>
-
 
 ---
 
@@ -93,10 +91,9 @@
 - PostgreSQL 8.x 기반이며 대부분의 SQL 구문을 호환한다.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./image/1_7.png" alt="설명" width="45%">
-  <img src="./image/1_8.png" alt="설명" width="45%">
+  <img src="./image/1_7.png" alt="설명" style="width: 45%;">
+  <img src="./image/1_8.png" alt="설명" style="width: 45%;">
 </div>
-
 
 - PostgreSQL 호환 툴 및 라이브러리(psycopg2 등)를 통해 접근 가능하다.
 
@@ -110,9 +107,9 @@
 ### 예제 테이블 및 분석 시나리오
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./image/2_1.png" alt="설명" width="30%">
-  <img src="./image/2_2.png" alt="설명" width="30%">
-  <img src="./image/2_3.png" alt="설명" width="30%">
+  <img src="./image/2_1.png" alt="설명" style="width: 30%;">
+  <img src="./image/2_2.png" alt="설명" style="width: 30%;">
+  <img src="./image/2_3.png" alt="설명" style="width: 30%;">
 </div>
 
 ---
@@ -152,8 +149,7 @@ ORDER BY 1 DESC;
 - INNER, LEFT, FULL, CROSS, SELF JOIN 등 테이블 병합 방식
 - 관계를 명확히 이해하고 기본키 제약 조건을 고려하여 JOIN을 수행한다.
 
-<img src="./image/4_1.png" alt="설명" width="500" style="display: block; margin: auto;">
-(그 외 JOIN 종류별 이미지도 포함)
+<img src="./image/4_1.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 ---
 

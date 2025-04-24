@@ -18,7 +18,7 @@
 - 관리 용이성
 
 ### 클라우드 유형
-<img src="./image/1_1.png" alt="설명" width="500" style="display: block; margin: auto;">
+<img src="./image/1_1.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 ---
 
@@ -57,7 +57,7 @@
 - **태그**: 리소스를 식별하기 위한 메타데이터이다.
 - **VPC**: 격리된 네트워크 환경을 제공한다.
 
-<img src="./image/2_1.png" alt="설명" width="500" style="display: block; margin: auto;">
+<img src="./image/2_1.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 ---
 
@@ -73,7 +73,7 @@
 
 ### SQL vs NoSQL
 
-<img src="./image/3_1.png" alt="설명" width="500" style="display: block; margin: auto;">
+<img src="./image/3_1.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 ---
 
@@ -83,7 +83,7 @@
 - 서버리스는 아니며, 직접 로그인은 불가능하다.
 - 콘솔, CLI, API를 통해 인스턴스를 생성하고 관리할 수 있다.
 
-<img src="./image/3_2.png" alt="설명" width="500" style="display: block; margin: auto;">
+<img src="./image/3_2.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 ---
 
@@ -102,7 +102,7 @@
 - 스키마 유연성 덕분에 다양한 애플리케이션 요구에 대응할 수 있다.
 - 자체적으로 분산 시스템을 제공하며, 확장 시 애플리케이션 수정이 필요 없다.
 
-<img src="./image/3_3.png" alt="설명" width="500" style="display: block; margin: auto;">
+<img src="./image/3_3.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 ---
 
@@ -113,8 +113,8 @@
 - 백업, 모니터링, 무제한 확장을 지원하며 스키마 정의가 필요 없다.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./image/3_4.png" alt="설명" width="45%">
-  <img src="./image/3_5.png" alt="설명" width="45%">
+  <img src="./image/3_4.png" alt="설명" style="width: 45%;">
+  <img src="./image/3_5.png" alt="설명" style="width: 45%;">
 </div>
 
 ---
@@ -127,8 +127,8 @@
   - AWS DMS를 통한 마이그레이션 지원
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./image/3_6.png" alt="설명" width="45%">
-  <img src="./image/3_7.png" alt="설명" width="45%">
+  <img src="./image/3_6.png" alt="설명" style="width: 45%;">
+  <img src="./image/3_7.png" alt="설명" style="width: 45%;">
 </div>
 
 ---
@@ -140,12 +140,12 @@
 - 고가용성과 확장성을 제공하는 DNS 웹 서비스이다.
 - 도메인 등록, DNS 라우팅, 상태 확인 기능을 제공한다.
 
-<img src="./image/4_1.png" alt="설명" width="500" style="display: block; margin: auto;">
+<img src="./image/4_1.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 - Public/Private 호스트 존을 지원한다.
 - DNS + 모니터링 + 로드 밸런싱 + GSLB 기능을 포함한다.
 
-<img src="./image/4_2.png" alt="설명" width="400" style="display: block; margin: auto;">
+<img src="./image/4_2.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 ---
 
@@ -154,7 +154,7 @@
 - AWS에서 SSL/TLS 인증서를 자동으로 관리하고 배포할 수 있게 해준다.
 - 도메인 소유권 검증 방식은 DNS 또는 이메일 기반이다.
 
-<img src="./image/4_3.png" alt="설명" width="500" style="display: block; margin: auto;">
+<img src="./image/4_3.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 #### 특징
 - 무료 퍼블릭 인증서 제공
@@ -169,8 +169,8 @@
 - 정적/동적 콘텐츠 모두 캐싱하여 로드 속도를 높인다.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./image/4_4.png" alt="설명" width="45%">
-  <img src="./image/4_5.png" alt="설명" width="45%">
+  <img src="./image/4_4.png" alt="설명" style="width: 45%;">
+  <img src="./image/4_5.png" alt="설명" style="width: 45%;">
 </div>
 
 ---
@@ -180,11 +180,9 @@
 - 네트워크 트래픽을 여러 인스턴스로 분산시켜 가용성과 확장성을 높인다.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./image/4_6.png" alt="설명" width="45%">
-  <img src="./image/4_7.png" alt="설명" width="45%">
+  <img src="./image/4_6.png" alt="설명" style="width: 45%;">
+  <img src="./image/4_7.png" alt="설명" style="width: 45%;">
 </div>
-
-- 대상 그룹을 통해 트래픽 전달 대상과 포트를 제어할 수 있다.
 
 ---
 
@@ -192,7 +190,7 @@
 
 - 사용자 정의 가상 네트워크이다. 온프레미스 환경과 유사하게 구성할 수 있다.
 
-<img src="./image/4_8.png" alt="설명" width="500" style="display: block; margin: auto;">
+<img src="./image/4_8.png" alt="설명" style="width: 400px; display: block; margin: auto;">
 
 #### 주요 기능
 - 서브넷, IP 주소 지정, 라우팅 테이블
@@ -201,8 +199,8 @@
 - 흐름 로그, VPN 연결
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./image/4_9.png" alt="설명" width="45%">
-  <img src="./image/4_10.png" alt="설명" width="45%">
+  <img src="./image/4_9.png" alt="설명" style="width: 45%;">
+  <img src="./image/4_10.png" alt="설명" style="width: 45%;">
 </div>
 
 ---
