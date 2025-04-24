@@ -7,13 +7,11 @@
 
 | 폴더명 | 설명 |
 |--------|------|
-| `data-structure/` | 자료구조 (배열, 스택, 큐, 트리, 그래프 등) 정리 |
-| `algorithms/` | 정렬, 탐색, DP, 백트래킹 등 알고리즘 개념 및 구현 |
-| `web-frameworks/` | Django, FastAPI 같은 웹 프레임워크 학습 |
-| `databases/` | SQL, RDBMS, NoSQL, DW 등 저장소 관련 학습 |
+| `DS/` | 자료구조 (배열, 스택, 큐, 트리, 그래프 등) 정리 |
+| `Algorithm/` | 정렬, 탐색, DP, 백트래킹 등 알고리즘 개념 및 구현 |
+| `DB/` | SQL, RDBMS, NoSQL, DW 등 저장소 관련 학습 |
+| `network/` | 컴퓨터 네트워크 및 프로토콜 개념 학습 |
 | `cloud/` | AWS 중심의 클라우드 인프라 구성 학습 |
-| `data-engineering/` | Spark, Airflow, Hadoop 중심의 데이터 처리 |
-| `networking/` | 컴퓨터 네트워크 및 프로토콜 개념 학습 |
 
 ## 학습 목적
 
