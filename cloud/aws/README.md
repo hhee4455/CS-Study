@@ -145,7 +145,7 @@
 - Public/Private 호스트 존을 지원한다.
 - DNS + 모니터링 + 로드 밸런싱 + GSLB 기능을 포함한다.
 
-<img src="./image/4_2.png" alt="설명" style="width: 400px; display: block; margin: auto;">
+<img src="./image/4_2.png" alt="설명" width="500" style="display: block; margin: auto;">
 
 ---
 
