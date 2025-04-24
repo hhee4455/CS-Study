@@ -51,7 +51,8 @@
 2. 서버 → 클라이언트 : SYN-ACK  
 3. 클라이언트 → 서버 : ACK  
 
-<img src="./image/2_2.png" alt="설명" width="400" style="display: block; margin: auto;">
+<img src="./image/2_2.png" alt="설명" width="500" style="display: block; margin: auto;">
+
 
 ---
 
