@@ -6,7 +6,7 @@
 - 네트워크 통신 기능을 7개 계층으로 나눈 개념적 프레임워크이다.  
 - 서로 다른 컴퓨터 시스템 간의 원활한 통신을 위한 표준을 제공한다.
 
-<img src="./image/1_1.png" alt="설명" style="width: 400px; display: block; margin: auto;">
+<img src="./image/1_1.png" alt="설명" style="max-width: 400px; height: auto; display: block; margin: auto;">
 
 ### OSI 7계층 상세
 
@@ -33,7 +33,7 @@
 - 인터넷 및 대부분의 네트워크에서 사용하는 통신 프로토콜의 집합이다.
 - 하드웨어, OS와 무관하게 작동하는 유연한 구조를 가진다.
 
-<img src="./image/2_1.png" alt="설명" style="width: 400px; display: block; margin: auto;">
+<img src="./image/2_1.png" alt="설명" style="max-width: 400px; height: auto; display: block; margin: auto;">
 
 ### TCP/IP 4계층
 
@@ -50,7 +50,7 @@
 2. 서버 → 클라이언트 : SYN-ACK  
 3. 클라이언트 → 서버 : ACK  
 
-<img src="./image/2_2.png" alt="설명" style="width: 400px; display: block; margin: auto;">
+<img src="./image/2_2.png" alt="설명" style="max-width: 400px; height: auto; display: block; margin: auto;">
 
 ---
 
@@ -59,7 +59,7 @@
 - 연결 설정 없이 데이터를 빠르게 전송한다.  
 - 오류 검출, 순서 보장 없이 전송한다.
 
-<img src="./image/2_3.png" alt="설명" style="width: 400px; display: block; margin: auto;">
+<img src="./image/2_3.png" alt="설명" style="max-width: 400px; height: auto; display: block; margin: auto;">
 
 ---
 
@@ -79,9 +79,9 @@
 4. **권한 있는 이름 서버** : 실제 IP 정보를 가지고 응답
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./image/3_1.png" alt="설명" style="width: 30%;">
-  <img src="./image/3_2.png" alt="설명" style="width: 30%;">
-  <img src="./image/3_2.png" alt="설명" style="width: 30%;">
+  <img src="./image/3_1.png" alt="설명" style="width: 30%; height: auto;">
+  <img src="./image/3_2.png" alt="설명" style="width: 30%; height: auto;">
+  <img src="./image/3_2.png" alt="설명" style="width: 30%; height: auto;">
 </div>
 
 ---
@@ -97,7 +97,7 @@
 7. IP 주소 반환  
 8. 브라우저가 해당 IP로 접속
 
-<img src="./image/3_4.png" alt="설명" style="width: 400px; display: block; margin: auto;">
+<img src="./image/3_4.png" alt="설명" style="max-width: 400px; height: auto; display: block; margin: auto;">
 
 ---
 
