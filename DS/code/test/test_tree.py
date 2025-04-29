@@ -4,7 +4,7 @@ import os
 
 # 모듈 경로 추가
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from DS_05_tree import TreeNode  # 파일명 맞게 조정해줘
+from DS_05_tree import TreeNode
 
 
 # ---------------------------
